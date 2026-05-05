@@ -23,7 +23,7 @@ This project analyzes marketing campaign performance data to identify trends, en
 - West region produced the highest profit ($117,300)
 
 ## Dashboard Preview
-![Dashboard](Campaign Performance Dashboard.png)
+![Dashboard](Campaign-Performance-Dashboard.png)
 
 ## Summary
 This project demonstrates the ability to analyze campaign performance and present insights in a clear, business-focused dashboard.
